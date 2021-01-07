@@ -9,7 +9,7 @@
 import Foundation
 
 enum CurError:String, Error {
-    case error = "adadsad"
+    case error = "Network Error"
 }
 
 
